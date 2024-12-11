@@ -6,15 +6,25 @@ Este projeto é uma aplicação para gerenciamento de controle de estoque. Segue
 
 plaintext
 Controle-de-estoque/
+
 ├── assets/
+
 │   └── css/
+
 ├── config/
+
 ├── controllers/
+
 ├── models/
+
 ├── views/
+
 ├── README.md
+
 ├── index.php
+
 ├── login.php
+
 └── logout.php
 
 
